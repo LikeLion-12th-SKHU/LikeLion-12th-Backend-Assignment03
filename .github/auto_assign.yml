@@ -2,12 +2,14 @@ addReviewers: true
 addAssignees: author
 numberOfReviewers: 1
 useReviewGroups: true
-useAssigneeGroups: false
 
-revieweGroups:
+
+reviewGroups:
   sss4920:
     - Junyeong-An
   kduoh99:
     - Rommmu
   Junyeong-An:
     - giwoong01
+
+useAssigneeGroups: false

@@ -1,5 +1,8 @@
 addReviewers: true
 addAssignees: author
+numberOfReviewers: 1
+useReviewGroups: true
+useAssigneeGroups: false
 
 reviewerGroups:
   sss4920:

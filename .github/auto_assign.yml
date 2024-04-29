@@ -2,12 +2,39 @@ addReviewers: true
 
 addAssignees: false
 
-numberOfReviewers: 1
+numberOfReviewers: 2
 
 useReviewGroups: true
 
 reviewGroups:
-  Junyeong-An:
-    - giwoong01
+  sss4920:
+    - Junyeong-An
+  ckr8305:
+    - Junyeong-An
+  HyeonWooRyu213:
+    - Junyeong-An
+
+  yeonja23:
+    - shinheekim, giwoong01
+  ttttkii913:
+    - shinheekim, giwoong01
+  dkdpawjddnr:
+    - shinheekim, giwoong01
+  shlee5002:
+    - shinheekim, giwoong01
+
+  seoyunv:
+    - djdongjae
+  firefox1234123:
+    - djdongjae
+  AWESOMEGUY5:
+    - djdongjae
+
+  eunxeum:
+    - Rommmu
+  leeseoyoung05:
+    - Rommmu
+  kduoh99:
+    - Rommmu
 
 useAssigneeGroups: false

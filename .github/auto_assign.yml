@@ -2,8 +2,6 @@ addReviewers: true
 
 addAssignees: false
 
-numberOfReviewers: 1
-
 sss4920:
   - Junyeong-An
 ckr8305:
@@ -36,3 +34,4 @@ leeseoyoung05:
 kduoh99:
   - Rommmu
 
+numberOfReviewers: 1

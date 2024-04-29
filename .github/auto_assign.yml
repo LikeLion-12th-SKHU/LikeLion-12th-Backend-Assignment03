@@ -4,7 +4,7 @@ numberOfReviewers: 1
 useReviewGroups: true
 useAssigneeGroups: false
 
-reviewerGroups:
+revieweGroups:
   sss4920:
     - Junyeong-An
   kduoh99:

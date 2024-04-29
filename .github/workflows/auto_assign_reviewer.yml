@@ -2,9 +2,8 @@ name: 'Auto Assign Reviewer'
 on:
   pull_request:
     types: [opened, reopened, ready_for_review]
-permissions:
-  contents: read
-  pull-requests: write
+    
+permissions: write-all
 
 jobs:
   assign-reviewer:

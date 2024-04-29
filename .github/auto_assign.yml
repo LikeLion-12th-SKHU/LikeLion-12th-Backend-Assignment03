@@ -2,39 +2,37 @@ addReviewers: true
 
 addAssignees: false
 
-# numberOfReviewers: 1
+numberOfReviewers: 1
 
-useReviewGroups: true
+sss4920:
+  - Junyeong-An
+ckr8305:
+  - Junyeong-An
+HyeonWooRyu213:
+  - Junyeong-An
+Junyeong-An:
+  - Junyeong-An
 
-reviewGroups:
-  sss4920:
-    - Junyeong-An
-  ckr8305:
-    - Junyeong-An
-  HyeonWooRyu213:
-    - Junyeong-An
+yeonja23:
+  - shinheekim, giwoong01
+ttttkii913:
+  - shinheekim, giwoong01
+dkdpawjddnr:
+  - shinheekim, giwoong01
+shlee5002:
+  - shinheekim, giwoong01
 
-  yeonja23:
-    - shinheekim, giwoong01
-  ttttkii913:
-    - shinheekim, giwoong01
-  dkdpawjddnr:
-    - shinheekim, giwoong01
-  shlee5002:
-    - shinheekim, giwoong01
+seoyunv:
+  - djdongjae
+firefox1234123:
+  - djdongjae
+AWESOMEGUY5:
+  - djdongjae
 
-  seoyunv:
-    - djdongjae
-  firefox1234123:
-    - djdongjae
-  AWESOMEGUY5:
-    - djdongjae
+eunxeum:
+  - Rommmu
+leeseoyoung05:
+  - Rommmu
+kduoh99:
+  - Rommmu
 
-  eunxeum:
-    - Rommmu
-  leeseoyoung05:
-    - Rommmu
-  kduoh99:
-    - Rommmu
-
-useAssigneeGroups: false
